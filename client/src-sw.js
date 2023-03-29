@@ -34,8 +34,7 @@ registerRoute(
 
     plugins: [
       new CacheableResponsePlugin({
-        statuses: 60,
-        maxAgeSeconds: 30 * 24 * 60 * 60,
+        statuses: [0, 200],
       })
 
     ],

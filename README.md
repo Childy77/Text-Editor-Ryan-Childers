@@ -1,5 +1,8 @@
 # Text-Editor-Ryan-Childers
 
+ ## Screen-Shot
+ ![](assets/image.png)
+
  ## Github
 
  ![]https://github.com/Childy77/Text-Editor-Ryan-Childers
